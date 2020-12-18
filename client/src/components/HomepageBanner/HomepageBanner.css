@@ -1,0 +1,34 @@
+
+
+.homepageBannerh2 {
+    /* margin-top: 10rem ;
+    margin-bottom: 10rem !important; */
+    text-align: center;
+
+}
+
+.findOutHow {
+    color:#212529
+}
+
+.findOutHow:hover {
+    text-decoration: none;
+    color:#212529
+}
+
+.bannerTagline {
+    margin-top: 10em;
+}
+
+.findOutButton {
+    margin-top:1.3em;
+}
+
+
+
+
+@media all and (max-width:576px) {
+    .findOutButton  {
+        variant: "outline-light"
+    }
+}
